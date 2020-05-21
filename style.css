@@ -21,6 +21,16 @@ body
         text-align: center;
     }
 
+a {
+    text-decoration: none;
+}
+a:link, a:visited {
+    color: yellow;
+}
+a:hover {
+    color: red;
+}
+
 /*Img settings*/
 /*Pomidorowa*/
 
